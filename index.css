@@ -53,6 +53,7 @@ section .project img {
         content: '';
         box-sizing: border-box;
         border: 1px solid transparent;
+        z-index: -1;
     }
 
     .line::after {
